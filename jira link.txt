@@ -1,0 +1,3 @@
+https://badreibra1.atlassian.net/browse/SDS0
+https://badreibra1.atlassian.net/jira/core/projects/SDS0/board?filter=&groupBy=status&atlOrigin=eyJpIjoiMWExMmFhN2ViMmRlNDA5NmI3Nzk3N2Y4MDAwZGRiNzYiLCJwIjoiaiJ9
+badreibra1.atlassian.net
